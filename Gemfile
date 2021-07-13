@@ -46,7 +46,7 @@ gem "database_cleaner", "~> 1.7.0"
 gem "rails_compatible_cookies_utils", "~> 0.1.0"
 
 # URL parsing/generation
-gem "addressable", "~> 2.7.0"
+gem "addressable", "~> 2.8.0"
 
 # Browser/JavaScript integration tests
 gem "capybara", "~> 3.30.0"
